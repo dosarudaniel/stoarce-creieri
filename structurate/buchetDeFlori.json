@@ -1,0 +1,6 @@
+{
+  "titlu": "Buchet de flori",
+  "enunt": "Ai un buchet de flori. Toate sunt trandafiri în afară de două. Toate sunt margarete în afară de două. Toate sunt lalele în afară de două. Câte flori sunt în buchet?",
+  "solutie": "n - 2 = t\nn - 2 = m\nn - 2 = l\nl + m + t = n\n3n - 6 = n\n2n = 6\nn = 3",
+  "dificultate": 2
+}
