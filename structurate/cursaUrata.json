@@ -1,0 +1,6 @@
+{
+  "titlu": "Cursă",
+  "enunt": "Participi într-o cursă.\n1: Îl depășești pe cel de pe locul al doilea. Pe ce loc te afli?\n2: Îl depășești pe cel de pe ultimul loc. Pe ce loc te afli?",
+  "solutie": "1: Pe al doilea. (nu pe primul)\n2: Nu îl poți depăși pe cel de pe ultimul loc.",
+  "dificultate": 2
+}

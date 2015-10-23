@@ -1,0 +1,6 @@
+{
+  "titlu": "1000 de sticle de vin",
+  "enunt": "Un împărat are 1000 de sticle de vin. în timpul unei petreceri cineva îl amenință că una din ele este otrăvită. împăratul are la dispoziție 10 străjeri pe care să-i \"sacrifice\" ca să afle care este sticla. Cum procedează? (Dacă bei din cea otrăvită mori a doua zi)",
+  "solutie": "Dacă ar fi 8 sticle și trei străjeri se vor împărți în felul următor:\n1 este sticlă din care bea.\nStrăjer 1: 01010101\nStrăjer 2: 00110011\nStrăjer 3: 00001111\n\nDacă nu moare niciunul sticla este 1.\nDacă moare primul, sticla este 2.\nDacă moare al doilea, sticla este 3.\nDacă mor primii doi, sticla este a 4-a.\nDacă moare al treilea, sticla este a 5-a.\nDacă mor primul și al treilea, sticla este a 6-a.\nDacă mor ultimii doi, sticla este a șaptea.\nDaca mor toți, sticla este a 8-a.",
+  "dificultate": 4
+}
